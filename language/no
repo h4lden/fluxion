@@ -1,0 +1,48 @@
+header_setinterface="Velg et grensesnitt"
+	setinterface_error="Finner ikke trådløse nettverkskort. Avslutter..."
+
+	# >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+	header_choosescan="Velg kanal"
+	choosescan_option_1="Alle kanaler "
+	choosescan_option_2="Spesifikke kanal(er)"
+	# >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+	scanchan_option_1="Enkel kanal"
+	scanchan_option_2="Flere kanaler"
+	# >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+	header_scan="WIFI Monitor"
+	# >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+	header_scanchan="Skanner mål"
+	# >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+	header_askAP="Velg ønsket angrep"
+	askAP_option_1="FakeAP - Hostapd ("$red"Anbefalt)"
+	askAP_option_2="FakeAP - airbase-ng (Treg tilkobling)"
+	askAP_option_4="Bruteforce - (Håndtrykk kreves)"
+	# >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+	header_askauth="METODE FOR Å VERIFISERE PASSORDET"
+	askauth_option_1="Håndtrykk ("$red"Anbefalt)"
+	askauth_option_2="Wpa_søkeren(Flere feil)"
+	# >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+	header_deauthforce="Håndtrykk sjekk"
+	deauthforce_option_1="aircrack-ng (Miss chance)"
+	# >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+	header_deauthMENU="*Fang håndtrykk*"
+	deauthMENU_option_1="Sjekk håndtrykk*"
+	# >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+	header_webinterface="Velg"
+	header_ConnectionRESET="Velg innloggingsside"
+	# >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+	general_back="Tilbake"
+	general_error_1="Ikke_Funnet"
+	general_case_error="Ukjent valg. Velg på nytt"
+	general_exitmode="Rengjør og lukker"
+	general_exitmode_1="Deaktiverer overvåkingsgrensesnitt"
+	general_exitmode_2="Deaktiver grensesnitt"
+	general_exitmode_3="Deaktiverer "$grey"videresending av pakker"
+	general_exitmode_4="Rengjør "$grey"iptables"
+	general_exitmode_5="Gjenoppretter "$grey"tput"
+	general_exitmode_6="Restarter "$grey"Nettverksbehandling"
+	general_exitmode_7="Rengjøringen er vellykket!"
+	general_exitmode_8="Takk for at du bruker Fluxion"
+	# >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+	selection_1="Aktive klienter"
+	selection_2="Velg mål. For  å scanne på nytt, skriv$red r$transparent"
